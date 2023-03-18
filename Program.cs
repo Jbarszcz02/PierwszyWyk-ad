@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Rozpoczynamy zajęcia!");
